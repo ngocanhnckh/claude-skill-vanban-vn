@@ -191,7 +191,7 @@ python tests/test_render.py     # renders all 10 examples, asserts the layout ru
 python tests/test_skill_md.py   # frontmatter limits, link hygiene, plugin manifests
 ```
 
-CI runs both on Python 3.9, 3.11 and 3.13. Contributions welcome - especially real
+CI runs both on Python 3.11, 3.12 and 3.13. Contributions welcome - especially real
 (anonymised) documents that this gets wrong. Please cite the clause you are fixing;
 see [CONTRIBUTING.md](CONTRIBUTING.md).
 

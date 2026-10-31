@@ -25,7 +25,7 @@ thành bộ công cụ cho toàn bộ văn bản hành chính.
 - Tự định dạng ngày tháng theo II.4.b và tự thêm số 0 cho số văn bản theo II.3.c.
 - Mười ví dụ chạy được ngay trong `assets/`, mỗi họ bố cục một tệp.
 - Ba tài liệu tham chiếu: thể thức theo khoản điểm, danh mục loại văn bản, lược đồ JSON.
-- Bộ kiểm thử `tests/` và quy trình CI trên Python 3.9, 3.11, 3.13.
+- Bộ kiểm thử `tests/` và quy trình CI trên Python 3.11, 3.12, 3.13.
 - Cài đặt dạng plugin qua `.claude-plugin/marketplace.json`.
 
 ### Fixed
