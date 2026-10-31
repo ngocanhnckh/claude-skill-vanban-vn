@@ -1,0 +1,23 @@
+{
+  "loai": "cong-dien",
+  "co_quan": "Ban Chỉ huy Phòng, chống thiên tai tỉnh Mẫu",
+  "so": "4",
+  "ky_hieu": "CĐ-BCH",
+  "dia_danh": "Quảng Ngãi",
+  "ngay": "2026-09-28",
+  "trich_yeu": "Về việc ứng phó với áp thấp nhiệt đới trên Biển Đông",
+  "do_khan": "HOẢ TỐC",
+  "kinh_gui": ["Ủy ban nhân dân các huyện, thị xã, thành phố", "Các sở, ngành thành viên Ban Chỉ huy"],
+  "mo_dau": "Theo bản tin của Trung tâm Dự báo khí tượng thủy văn quốc gia, áp thấp nhiệt đới đang hoạt động trên Biển Đông và có khả năng mạnh lên thành bão, ảnh hưởng trực tiếp đến vùng biển của tỉnh trong 48 giờ tới. Ban Chỉ huy Phòng, chống thiên tai tỉnh yêu cầu:",
+  "muc": [
+    { "blocks": [
+      { "type": "list", "items": [
+        "1. Thông báo ngay cho chủ các phương tiện đang hoạt động trên biển biết vị trí, hướng di chuyển của áp thấp nhiệt đới để chủ động phòng tránh.",
+        "2. Tổ chức kiểm tra, rà soát các khu vực có nguy cơ sạt lở, ngập sâu; sẵn sàng phương án di dời dân khi cần thiết.",
+        "3. Duy trì trực ban 24/24 giờ, báo cáo tình hình về Ban Chỉ huy tỉnh trước 16 giờ hằng ngày."
+      ] }
+    ] }
+  ],
+  "noi_nhan": ["Như trên", "Ban Chỉ đạo quốc gia về phòng, chống thiên tai (để b/c)", "Lưu: VT, VP (02 bản)"],
+  "nguoi_ky": { "quyen_han": "KT.", "chuc_vu": "Trưởng ban", "chuc_vu_khac": "Phó Trưởng ban thường trực", "ho_ten": "" }
+}

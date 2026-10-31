@@ -1,0 +1,10 @@
+{
+  "name": "van-ban-hanh-chinh-vn",
+  "description": "Vietnamese administrative documents (.docx) that follow Decree 30/2020/ND-CP: all 29 document types, validator included.",
+  "version": "1.0.0",
+  "author": { "name": "ngocanhnckh", "url": "https://github.com/ngocanhnckh" },
+  "homepage": "https://github.com/ngocanhnckh/claude-skill-vanban-vn",
+  "repository": "https://github.com/ngocanhnckh/claude-skill-vanban-vn",
+  "license": "MIT",
+  "keywords": ["vietnam", "docx", "government", "document-automation", "nghi-dinh-30"]
+}

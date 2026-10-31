@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.docx
+*.pdf
+!skills/van-ban-hanh-chinh-vn/assets/*.docx
+.DS_Store
+.venv/
+out/

@@ -1,0 +1,27 @@
+{
+  "loai": "thong-bao",
+  "co_quan": "Trường Đại học Mẫu",
+  "so": "212",
+  "ky_hieu": "TB-ĐHM",
+  "dia_danh": "Huế",
+  "ngay": "2026-08-01",
+  "trich_yeu": "Về lịch nghỉ lễ Quốc khánh năm 2026",
+  "mo_dau": "Trường Đại học Mẫu thông báo đến toàn thể giảng viên, người lao động và sinh viên lịch nghỉ lễ Quốc khánh năm 2026 như sau:",
+  "muc": [
+    { "heading": "1. Thời gian nghỉ",
+      "blocks": [
+        { "type": "para", "text": "Nghỉ liên tục 04 ngày, từ ngày 31 tháng 8 năm 2026 đến hết ngày 03 tháng 9 năm 2026. Các lớp học và hoạt động chuyên môn trở lại bình thường từ ngày 04 tháng 9 năm 2026." }
+      ] },
+    { "heading": "2. Phân công trực",
+      "blocks": [
+        { "type": "list", "items": [
+          "- Phòng Hành chính - Tổng hợp bố trí trực bảo vệ 24/24 giờ;",
+          "- Trung tâm Công nghệ thông tin bảo đảm hệ thống mạng và máy chủ hoạt động liên tục;",
+          "- Trạm Y tế bố trí 01 nhân viên trực mỗi ngày."
+        ] }
+      ] }
+  ],
+  "ket": ["Đề nghị các đơn vị thông báo đến toàn thể giảng viên, người lao động và sinh viên để biết và thực hiện."],
+  "noi_nhan": ["Các đơn vị thuộc Trường", "Website Trường (để đăng tin)", "Lưu: VT, HCTH (02 bản)"],
+  "nguoi_ky": { "quyen_han": "TL.", "chuc_vu": "Hiệu trưởng", "chuc_vu_khac": "Trưởng phòng Hành chính - Tổng hợp", "ho_ten": "" }
+}

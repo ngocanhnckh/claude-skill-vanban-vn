@@ -1,0 +1,49 @@
+{
+  "loai": "cong-van",
+  "co_quan_chu_quan": "Sở Kế hoạch và Đầu tư",
+  "co_quan": "Trung tâm Xúc tiến Đầu tư",
+  "so": "142",
+  "ky_hieu": "TTXTĐT-NV",
+  "dia_danh": "Hà Nội",
+  "ngay": "2026-03-09",
+  "trich_yeu": ["đề nghị cung cấp số liệu phục vụ", "báo cáo tổng kết năm 2026"],
+  "kinh_gui": ["Các sở, ban, ngành thuộc Thành phố", "Ủy ban nhân dân các quận, huyện, thị xã"],
+  "mo_dau": "Thực hiện Kế hoạch số 11/KH-UBND ngày 05 tháng 01 năm 2026 của Ủy ban nhân dân Thành phố về tổng kết công tác xúc tiến đầu tư năm 2026, Trung tâm Xúc tiến Đầu tư đề nghị Quý cơ quan phối hợp cung cấp số liệu như sau:",
+  "muc": [
+    {
+      "heading": "1. Nội dung số liệu đề nghị cung cấp",
+      "blocks": [
+        { "type": "list", "items": [
+          "a) Số dự án đầu tư được cấp mới, điều chỉnh trong năm 2026;",
+          "b) Tổng vốn đầu tư đăng ký và vốn thực hiện;",
+          "c) Khó khăn, vướng mắc và kiến nghị của nhà đầu tư."
+        ] }
+      ]
+    },
+    {
+      "heading": "2. Thời hạn và cách thức gửi",
+      "blocks": [
+        { "type": "para", "text": "Đề nghị Quý cơ quan gửi số liệu về Trung tâm Xúc tiến Đầu tư trước ngày 25 tháng 3 năm 2026 theo biểu mẫu tại Phụ lục kèm theo công văn này." }
+      ]
+    }
+  ],
+  "ket": ["Trân trọng cảm ơn sự phối hợp của Quý cơ quan."],
+  "noi_nhan": ["Như trên", "Giám đốc Sở Kế hoạch và Đầu tư (để b/c)", "Lưu: VT, NV (02 bản)"],
+  "nguoi_ky": { "quyen_han": "KT.", "chuc_vu": "Giám đốc", "chuc_vu_khac": "Phó Giám đốc", "ho_ten": "" },
+  "ky_hieu_nguoi_soan": "NV.30",
+  "lien_he": { "dia_chi": "Số 1 phố Mẫu, quận Mẫu, Hà Nội", "dien_thoai": "024.0000.0000", "email": "ttxtdt@example.gov.vn" },
+  "phu_luc": [
+    { "tieu_de": "Biểu mẫu báo cáo số liệu đầu tư năm 2026",
+      "blocks": [
+        { "type": "table",
+          "header": ["STT", "Chỉ tiêu", "Đơn vị", "Số liệu"],
+          "widths": [1.5, 8, 2.5, 4],
+          "rows": [
+            ["1", "Số dự án cấp mới", "dự án", ""],
+            ["2", "Số dự án điều chỉnh", "dự án", ""],
+            ["3", "Tổng vốn đăng ký", "tỷ đồng", ""],
+            ["4", "Vốn thực hiện", "tỷ đồng", ""]
+          ] }
+      ] }
+  ]
+}

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 660" width="1180" height="660" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <rect width="1180" height="660" rx="16" fill="#151a22"/>
+  <text x="40" y="52" fill="#fbf8f3" font-size="23" font-weight="700">Sơ đồ bố trí các thành phần thể thức</text>
+  <text x="40" y="78" fill="#8d95a3" font-size="14">Nghị định 30/2020/NĐ-CP · Phụ lục I · Mục IV, Phần I</text>
+
+  <!-- A4 sheet -->
+  <g transform="translate(40,104)">
+    <rect width="420" height="520" rx="8" fill="#fbf8f3"/>
+    <!-- margin guides -->
+    <rect x="60" y="40" width="320" height="440" fill="none" stroke="#c8102e" stroke-width="1" stroke-dasharray="4 4" opacity="0.55"/>
+    <text x="62" y="32" fill="#c8102e" font-size="9">lề trên 20-25 mm</text>
+    <text x="4" y="270" fill="#c8102e" font-size="9" transform="rotate(-90 14,270)">lề trái 30-35 mm</text>
+
+    <g fill="#1d2430" font-size="10">
+      <!-- 11 and 14 -->
+      <rect x="60" y="46" width="58" height="18" fill="none" stroke="#5b6472" stroke-width="1"/>
+      <text x="66" y="59" font-size="9">11 lưu hành</text>
+      <rect x="322" y="46" width="58" height="18" fill="none" stroke="#5b6472" stroke-width="1"/>
+      <text x="328" y="59" font-size="9">14 ký số sao</text>
+
+      <!-- 2 / 1 -->
+      <rect x="60" y="74" width="150" height="44" fill="#e9e4da"/>
+      <text x="68" y="92" font-weight="700">2</text><text x="82" y="92">tên cơ quan</text>
+      <text x="82" y="106" font-size="9" fill="#5b6472">in hoa, đậm, có gạch chân 1/3-1/2</text>
+
+      <rect x="230" y="74" width="150" height="44" fill="#e9e4da"/>
+      <text x="238" y="92" font-weight="700">1</text><text x="252" y="92">Quốc hiệu / Tiêu ngữ</text>
+      <text x="252" y="106" font-size="9" fill="#5b6472">in hoa đậm 12-13 / đậm 13-14</text>
+
+      <!-- 3 / 4 -->
+      <rect x="60" y="124" width="150" height="30" fill="#e9e4da"/>
+      <text x="68" y="143" font-weight="700">3</text><text x="82" y="143">số, ký hiệu</text>
+      <rect x="230" y="124" width="150" height="30" fill="#e9e4da"/>
+      <text x="238" y="143" font-weight="700">4</text><text x="252" y="143">địa danh, ngày tháng</text>
+
+      <!-- 5b / 5a -->
+      <rect x="60" y="160" width="150" height="30" fill="#e9e4da"/>
+      <text x="68" y="179" font-weight="700">5b</text><text x="88" y="179">trích yếu "V/v"</text>
+      <rect x="230" y="160" width="150" height="30" fill="#e9e4da"/>
+      <text x="238" y="179" font-weight="700">5a</text><text x="258" y="179">tên loại + trích yếu</text>
+
+      <!-- 10a 10b / 9a -->
+      <rect x="60" y="196" width="70" height="40" fill="#e9e4da"/>
+      <text x="66" y="212" font-weight="700" font-size="9">10a</text><text x="86" y="212" font-size="9">độ mật</text>
+      <text x="66" y="228" font-weight="700" font-size="9">10b</text><text x="86" y="228" font-size="9">độ khẩn</text>
+      <rect x="150" y="196" width="230" height="40" fill="#e9e4da"/>
+      <text x="158" y="220" font-weight="700">9a</text><text x="176" y="220">Kính gửi (công văn, tờ trình, báo cáo)</text>
+
+      <!-- 6 -->
+      <rect x="60" y="244" width="320" height="140" fill="#dcd6ca"/>
+      <text x="200" y="312" font-weight="700" font-size="13">6</text>
+      <text x="214" y="312" font-size="13">nội dung văn bản</text>
+      <text x="124" y="332" font-size="9" fill="#5b6472">căn đều hai lề · cỡ 13-14 · thụt dòng 1 cm · cách đoạn 6pt</text>
+
+      <!-- 7a 8 7c 7b / 9b 12 -->
+      <rect x="230" y="392" width="150" height="62" fill="#e9e4da"/>
+      <text x="238" y="408" font-weight="700" font-size="9">7a</text><text x="256" y="408" font-size="9">quyền hạn, chức vụ</text>
+      <text x="238" y="424" font-weight="700" font-size="9">8</text><text x="256" y="424" font-size="9">dấu</text>
+      <text x="300" y="424" font-weight="700" font-size="9">7c</text><text x="316" y="424" font-size="9">chữ ký</text>
+      <text x="238" y="444" font-weight="700" font-size="9">7b</text><text x="256" y="444" font-size="9">họ và tên</text>
+
+      <rect x="60" y="392" width="150" height="62" fill="#e9e4da"/>
+      <text x="68" y="410" font-weight="700" font-size="9">9b</text><text x="86" y="410" font-size="9">Nơi nhận:</text>
+      <text x="68" y="428" font-size="9" fill="#5b6472">- Như trên;</text>
+      <text x="68" y="442" font-size="9" fill="#5b6472">- Lưu: VT, ... (02 bản).</text>
+
+      <rect x="60" y="460" width="150" height="20" fill="#e9e4da"/>
+      <text x="68" y="474" font-weight="700" font-size="9">12</text><text x="86" y="474" font-size="9">ký hiệu người soạn thảo</text>
+
+      <rect x="230" y="460" width="150" height="20" fill="#e9e4da"/>
+      <text x="238" y="474" font-weight="700" font-size="9">13</text><text x="256" y="474" font-size="9">địa chỉ, ĐT, email</text>
+    </g>
+  </g>
+
+  <!-- legend -->
+  <g transform="translate(500,104)" fill="#fbf8f3" font-size="13">
+    <text y="14" font-size="15" font-weight="700">Skill này lo toàn bộ phần trình bày</text>
+    <g fill="#c6ccd6" font-size="12.5">
+      <text y="44">Khổ A4, lề 20-25 / 30-35 / 15-20 mm</text>
+      <text y="68">Times New Roman, Unicode TCVN 6909:2001</text>
+      <text y="92">Thân bài 13-14, căn đều, thụt dòng 1 cm, 6pt</text>
+      <text y="116">Số trang canh giữa lề trên, ẩn ở trang thứ nhất</text>
+      <text y="140">Đường kẻ dưới tên cơ quan: 1/3 - 1/2 dòng chữ</text>
+      <text y="164">Số &lt; 10, ngày &lt; 10, tháng 1 và 2 tự thêm số 0</text>
+      <text y="188">Nơi nhận tự thêm "-", ";" và dấu chấm cuối</text>
+      <text y="212">Công văn: không tên loại, trích yếu sau "V/v"</text>
+    </g>
+
+    <text y="262" font-size="15" font-weight="700">Bạn chỉ viết nội dung</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+      <rect x="-6" y="276" width="640" height="158" rx="8" fill="#0e1218"/>
+      <text x="14" y="300" fill="#8d95a3">{</text>
+      <text x="30" y="320"><tspan fill="#7fb3ff">"loai"</tspan><tspan fill="#8d95a3">: </tspan><tspan fill="#b9e49a">"cong-van"</tspan><tspan fill="#8d95a3">,</tspan></text>
+      <text x="30" y="340"><tspan fill="#7fb3ff">"co_quan"</tspan><tspan fill="#8d95a3">: </tspan><tspan fill="#b9e49a">"Công ty Mẫu Việt"</tspan><tspan fill="#8d95a3">,</tspan></text>
+      <text x="30" y="360"><tspan fill="#7fb3ff">"trich_yeu"</tspan><tspan fill="#8d95a3">: </tspan><tspan fill="#b9e49a">"đề nghị phối hợp"</tspan><tspan fill="#8d95a3">,</tspan></text>
+      <text x="30" y="380"><tspan fill="#7fb3ff">"kinh_gui"</tspan><tspan fill="#8d95a3">: </tspan><tspan fill="#b9e49a">"Sở Công Thương"</tspan><tspan fill="#8d95a3">,</tspan></text>
+      <text x="30" y="400"><tspan fill="#7fb3ff">"noi_nhan"</tspan><tspan fill="#8d95a3">: [</tspan><tspan fill="#b9e49a">"Như trên"</tspan><tspan fill="#8d95a3">, </tspan><tspan fill="#b9e49a">"Lưu: VT."</tspan><tspan fill="#8d95a3">]</tspan></text>
+      <text x="14" y="420" fill="#8d95a3">}</text>
+    </g>
+    <text y="462" font-size="12.5" fill="#8d95a3">29 loại · 10 ví dụ · trình kiểm tra thể thức</text>
+  </g>
+</svg>

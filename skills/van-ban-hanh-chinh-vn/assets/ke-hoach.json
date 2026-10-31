@@ -1,0 +1,40 @@
+{
+  "loai": "ke-hoach",
+  "co_quan": "Ủy ban nhân dân phường Mẫu",
+  "so": "16",
+  "ky_hieu": "KH-UBND",
+  "dia_danh": "Cần Thơ",
+  "ngay": "2026-05-04",
+  "trich_yeu": "Tổ chức Tháng hành động vì trẻ em năm 2026",
+  "can_cu": [
+    "Căn cứ Luật Trẻ em năm 2016",
+    "Căn cứ Kế hoạch số 88/KH-UBND ngày 20 tháng 4 năm 2026 của Ủy ban nhân dân quận Mẫu"
+  ],
+  "muc": [
+    { "heading": "I. MỤC ĐÍCH, YÊU CẦU",
+      "blocks": [
+        { "type": "list", "items": [
+          "1. Nâng cao nhận thức của cộng đồng về quyền trẻ em và phòng, chống tai nạn thương tích.",
+          "2. Bảo đảm 100% trẻ em có hoàn cảnh đặc biệt trên địa bàn được thăm hỏi, hỗ trợ."
+        ] }
+      ] },
+    { "heading": "II. NỘI DUNG VÀ TIẾN ĐỘ",
+      "blocks": [
+        { "type": "table",
+          "header": ["STT", "Nội dung", "Thời gian", "Đơn vị chủ trì"],
+          "widths": [1.2, 7.3, 3.5, 4],
+          "rows": [
+            ["1", "Lễ phát động Tháng hành động", "01/6/2026", "Văn hóa - Xã hội"],
+            ["2", "Tập huấn phòng chống tai nạn đuối nước", "08/6/2026", "Trạm Y tế"],
+            ["3", "Thăm, tặng quà trẻ em có hoàn cảnh đặc biệt", "10 - 20/6/2026", "Lao động - Thương binh"],
+            ["4", "Tổng kết, báo cáo kết quả", "trước 30/6/2026", "Văn phòng"]
+          ] }
+      ] },
+    { "heading": "III. TỔ CHỨC THỰC HIỆN",
+      "blocks": [
+        { "type": "para", "text": "Các bộ phận chuyên môn căn cứ nhiệm vụ được phân công xây dựng dự toán chi tiết, trình Chủ tịch Ủy ban nhân dân phường trước ngày 20 tháng 5 năm 2026; định kỳ báo cáo tiến độ vào thứ Sáu hằng tuần." }
+      ] }
+  ],
+  "noi_nhan": ["Ủy ban nhân dân quận Mẫu (để b/c)", "Các bộ phận chuyên môn", "Các khu dân cư", "Lưu: VT, VHXH (02 bản)"],
+  "nguoi_ky": { "chuc_vu": "Chủ tịch", "ho_ten": "" }
+}

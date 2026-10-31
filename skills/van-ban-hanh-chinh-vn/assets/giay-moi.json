@@ -1,0 +1,21 @@
+{
+  "loai": "giay-moi",
+  "co_quan": "Liên đoàn Lao động quận Mẫu",
+  "so": "45",
+  "ky_hieu": "GM-LĐLĐ",
+  "dia_danh": "Hà Nội",
+  "ngay": "2026-10-05",
+  "trich_yeu": "Dự Hội nghị biểu dương công nhân lao động tiêu biểu năm 2026",
+  "mo_dau": "Liên đoàn Lao động quận Mẫu trân trọng kính mời:",
+  "noi_dung": [
+    { "type": "dots", "label": "Ông/Bà" },
+    { "type": "dots", "label": "Chức vụ, đơn vị" },
+    { "type": "dots", "label": "Tới dự", "value": "Hội nghị biểu dương công nhân lao động tiêu biểu năm 2026" },
+    { "type": "dots", "label": "Thời gian", "value": "08 giờ 00 phút, thứ Năm ngày 22 tháng 10 năm 2026" },
+    { "type": "dots", "label": "Địa điểm", "value": "Hội trường tầng 3, Nhà văn hóa quận Mẫu" },
+    { "type": "para", "text": "Rất mong Ông/Bà thu xếp thời gian tới dự. Đề nghị xác nhận tham dự trước ngày 18 tháng 10 năm 2026 qua số điện thoại của Văn phòng Liên đoàn." }
+  ],
+  "ket": ["Trân trọng."],
+  "noi_nhan": ["Như trên", "Lưu: VT, VP (02 bản)"],
+  "nguoi_ky": { "chuc_vu": "Chủ tịch", "ho_ten": "" }
+}

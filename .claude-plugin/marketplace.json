@@ -1,0 +1,12 @@
+{
+  "name": "vanban-vn",
+  "description": "Skills for Vietnamese official paperwork",
+  "owner": { "name": "ngocanhnckh", "url": "https://github.com/ngocanhnckh" },
+  "plugins": [
+    {
+      "name": "van-ban-hanh-chinh-vn",
+      "source": "./",
+      "description": "Draft and render Vietnamese administrative documents (.docx) compliant with Decree 30/2020/ND-CP."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "loai": "to-trinh",
+  "co_quan_chu_quan": "Ủy ban nhân dân tỉnh Mẫu",
+  "co_quan": "Sở Tài chính",
+  "so": "7",
+  "ky_hieu": "TTr-STC",
+  "dia_danh": "Vĩnh Long",
+  "ngay": "2026-04-18",
+  "trich_yeu": "Về việc bổ sung dự toán kinh phí sửa chữa trụ sở làm việc năm 2026",
+  "kinh_gui": "Ủy ban nhân dân tỉnh Mẫu",
+  "mo_dau": "Căn cứ kết quả kiểm tra hiện trạng trụ sở làm việc ngày 05 tháng 4 năm 2026, Sở Tài chính kính trình Ủy ban nhân dân tỉnh xem xét, quyết định bổ sung dự toán kinh phí sửa chữa như sau:",
+  "muc": [
+    { "heading": "1. Sự cần thiết",
+      "blocks": [
+        { "type": "para", "text": "Trụ sở làm việc được xây dựng năm 2004, hệ thống chống thấm mái và đường điện đã hết tuổi thọ sử dụng, tiềm ẩn nguy cơ mất an toàn." }
+      ] },
+    { "heading": "2. Nội dung và kinh phí đề nghị",
+      "blocks": [
+        { "type": "table",
+          "header": ["STT", "Nội dung", "Kinh phí (đồng)"],
+          "widths": [1.5, 9.5, 5],
+          "rows": [
+            ["1", "Chống thấm mái và sơn tường ngoài", "860.000.000"],
+            ["2", "Cải tạo hệ thống điện, chiếu sáng", "540.000.000"],
+            ["", "Tổng cộng", "1.400.000.000"]
+          ] },
+        { "type": "italic", "text": "Nguồn kinh phí: dự phòng ngân sách tỉnh năm 2026." }
+      ] },
+    { "heading": "3. Kiến nghị",
+      "blocks": [
+        { "type": "para", "text": "Kính đề nghị Ủy ban nhân dân tỉnh phê duyệt bổ sung dự toán nêu trên và cho phép Sở Tài chính triển khai thủ tục lựa chọn nhà thầu trong tháng 5 năm 2026." }
+      ] }
+  ],
+  "ket": ["Sở Tài chính kính trình Ủy ban nhân dân tỉnh xem xét, quyết định."],
+  "noi_nhan": ["Như trên", "Chủ tịch Ủy ban nhân dân tỉnh (để b/c)", "Lưu: VT, QLNS (02 bản)"],
+  "nguoi_ky": { "chuc_vu": "Giám đốc", "ho_ten": "" }
+}

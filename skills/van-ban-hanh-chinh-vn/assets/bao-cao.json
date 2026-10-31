@@ -1,0 +1,39 @@
+{
+  "loai": "bao-cao",
+  "co_quan_chu_quan": "Ủy ban nhân dân quận Mẫu",
+  "co_quan": "Phòng Giáo dục và Đào tạo",
+  "so": "9",
+  "ky_hieu": "BC-PGDĐT",
+  "dia_danh": "Thành phố Hồ Chí Minh",
+  "ngay": "2026-01-15",
+  "trich_yeu": "Kết quả thực hiện nhiệm vụ học kỳ I năm học 2025 - 2026",
+  "kinh_gui": ["Ủy ban nhân dân quận Mẫu", "Sở Giáo dục và Đào tạo"],
+  "mo_dau": "Thực hiện Công văn số 1123/SGDĐT-VP ngày 02 tháng 12 năm 2025 của Sở Giáo dục và Đào tạo, Phòng Giáo dục và Đào tạo quận Mẫu báo cáo kết quả thực hiện nhiệm vụ học kỳ I năm học 2025 - 2026 như sau:",
+  "muc": [
+    { "heading": "I. KẾT QUẢ ĐẠT ĐƯỢC",
+      "blocks": [
+        { "type": "para", "text": "Toàn quận duy trì 100% trường học hoạt động ổn định; tỷ lệ học sinh đi học đúng độ tuổi đạt 99,2%." },
+        { "type": "table",
+          "header": ["Cấp học", "Số trường", "Số lớp", "Số học sinh"],
+          "rows": [
+            ["Mầm non", "28", "310", "9.420"],
+            ["Tiểu học", "21", "612", "24.180"],
+            ["Trung học cơ sở", "14", "398", "16.735"]
+          ] }
+      ] },
+    { "heading": "II. KHÓ KHĂN, HẠN CHẾ",
+      "blocks": [
+        { "type": "list", "items": [
+          "1. Thiếu 42 giáo viên so với định mức, chủ yếu ở môn Tin học và Tiếng Anh.",
+          "2. Ba trường tiểu học đã quá tải về sĩ số lớp."
+        ] }
+      ] },
+    { "heading": "III. NHIỆM VỤ HỌC KỲ II",
+      "blocks": [
+        { "type": "para", "text": "Tập trung tuyển dụng bổ sung giáo viên, hoàn thành sửa chữa cơ sở vật chất trước ngày 30 tháng 4 năm 2026 và tổ chức kiểm tra chuyên đề tại 100% trường học." }
+      ] }
+  ],
+  "ket": ["Phòng Giáo dục và Đào tạo quận Mẫu kính báo cáo và đề nghị cấp trên quan tâm bổ sung biên chế giáo viên cho năm học tiếp theo."],
+  "noi_nhan": ["Như trên", "Lưu: VT, TH (02 bản)"],
+  "nguoi_ky": { "chuc_vu": "Trưởng phòng", "ho_ten": "" }
+}

@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  render:
+    name: Render and validate every example
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.9", "3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install python-docx
+        run: python -m pip install --upgrade pip python-docx
+
+      - name: Validate every example spec
+        run: python skills/van-ban-hanh-chinh-vn/scripts/kiem_tra.py skills/van-ban-hanh-chinh-vn/assets/*.json
+
+      - name: Render every example and assert the layout rules
+        run: python tests/test_render.py
+
+  skill:
+    name: Check the skill and plugin metadata
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: SKILL.md frontmatter and size limits
+        run: python tests/test_skill_md.py

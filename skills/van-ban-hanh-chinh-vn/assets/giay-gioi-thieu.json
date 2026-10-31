@@ -1,0 +1,19 @@
+{
+  "loai": "giay-gioi-thieu",
+  "co_quan": "Viện Nghiên cứu Mẫu",
+  "so": "88",
+  "ky_hieu": "GGT-VNCM",
+  "dia_danh": "Nha Trang",
+  "ngay": "2026-07-21",
+  "mo_dau": "Viện Nghiên cứu Mẫu trân trọng giới thiệu:",
+  "noi_dung": [
+    { "type": "dots", "label": "Ông/Bà" },
+    { "type": "dots", "label": "Chức vụ" },
+    { "type": "dots", "label": "Được cử đến" },
+    { "type": "dots", "label": "Về việc" },
+    { "type": "para", "text": "Đề nghị Quý cơ quan tạo điều kiện để Ông/Bà có tên trên hoàn thành nhiệm vụ." },
+    { "type": "italic", "text": "Giấy giới thiệu này có giá trị đến hết ngày ......... tháng ......... năm ........." }
+  ],
+  "noi_nhan": ["Như trên", "Lưu: VT (01 bản)"],
+  "nguoi_ky": { "quyen_han": "TL.", "chuc_vu": "Viện trưởng", "chuc_vu_khac": "Chánh Văn phòng", "ho_ten": "" }
+}

@@ -1,0 +1,38 @@
+{
+  "loai": "bien-ban",
+  "co_quan": "Hội đồng tuyển dụng Trung tâm Mẫu",
+  "so": "3",
+  "ky_hieu": "BB-HĐTD",
+  "dia_danh": "Hải Phòng",
+  "ngay": "2026-06-12",
+  "trich_yeu": "Họp xét kết quả vòng phỏng vấn kỳ tuyển dụng năm 2026",
+  "mo_dau": [
+    "Hôm nay, vào lúc 14 giờ 00 phút ngày 12 tháng 6 năm 2026, tại Phòng họp số 2 Trung tâm Mẫu, Hội đồng tuyển dụng tiến hành họp xét kết quả vòng phỏng vấn kỳ tuyển dụng năm 2026.",
+    "Thành phần tham dự: 05/05 thành viên Hội đồng tuyển dụng theo Quyết định số 21/QĐ-TTM ngày 02 tháng 5 năm 2026. Vắng: không."
+  ],
+  "muc": [
+    { "heading": "1. Nội dung làm việc",
+      "blocks": [
+        { "type": "para", "text": "Hội đồng nghe Thư ký báo cáo tổng hợp điểm phỏng vấn của 18 ứng viên dự tuyển 04 vị trí, sau đó thảo luận và xét từng trường hợp theo thứ tự điểm từ cao xuống thấp." }
+      ] },
+    { "heading": "2. Ý kiến thảo luận",
+      "blocks": [
+        { "type": "list", "items": [
+          "- Thống nhất lấy điểm chuẩn 70/100 cho tất cả các vị trí;",
+          "- Với hai ứng viên bằng điểm ở vị trí Chuyên viên kỹ thuật, ưu tiên người có thời gian công tác trong lĩnh vực dài hơn."
+        ] }
+      ] },
+    { "heading": "3. Kết luận",
+      "blocks": [
+        { "type": "para", "text": "Hội đồng nhất trí 05/05 phiếu thông qua danh sách 04 ứng viên trúng tuyển và 02 ứng viên dự phòng; giao Thư ký hoàn thiện hồ sơ trình Giám đốc Trung tâm quyết định." }
+      ] }
+  ],
+  "ket": [
+    "Biên bản kết thúc vào lúc 16 giờ 30 phút cùng ngày, đã được đọc lại cho các thành viên cùng nghe và nhất trí thông qua.",
+    "Biên bản được lập thành 03 bản có giá trị như nhau."
+  ],
+  "chu_ky": [
+    { "chuc_vu": "Thư ký", "ho_ten": "" },
+    { "chuc_vu": "Chủ tịch Hội đồng", "ho_ten": "" }
+  ]
+}
